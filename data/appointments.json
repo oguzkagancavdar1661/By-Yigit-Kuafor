@@ -1,0 +1,44 @@
+[
+  {
+    "id": "BY-3108",
+    "serviceId": "sac-yikama",
+    "serviceName": "Saç Kesimi & Yıkama",
+    "price": 400,
+    "duration": "45 dk",
+    "date": "2026-11-07",
+    "time": "12:00",
+    "customerName": "Test Müsteri",
+    "customerPhone": "0542 000 11 22",
+    "notes": "Otomatik test rezervasyonu",
+    "status": "Onaylandı",
+    "createdAt": "2026-11-05T14:08:36.085Z"
+  },
+  {
+    "id": "BY-1001",
+    "serviceId": "sac-yikama",
+    "serviceName": "Saç Kesimi & Yıkama",
+    "price": 400,
+    "duration": "45 dk",
+    "date": "2026-11-06",
+    "time": "11:15",
+    "customerName": "Ahmet Karataş",
+    "customerPhone": "0532 111 22 33",
+    "notes": "Klasik yanlar kısa fade",
+    "status": "Onaylandı",
+    "createdAt": "2026-11-05T14:08:34.223Z"
+  },
+  {
+    "id": "BY-1002",
+    "serviceId": "kombin-bakim",
+    "serviceName": "Saç & Sakal Kombin Bakım",
+    "price": 600,
+    "duration": "60 dk",
+    "date": "2026-11-06",
+    "time": "14:30",
+    "customerName": "Mustafa Demir",
+    "customerPhone": "0544 555 66 77",
+    "notes": "Buharlı sakal tıraşı dahil",
+    "status": "Onaylandı",
+    "createdAt": "2026-11-05T14:08:34.223Z"
+  }
+]
